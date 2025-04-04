@@ -1,0 +1,5 @@
+<settings>
+    <category label="General">
+        <setting id="enable_feature" type="bool" label="Activar función avanzada" default="true" />
+    </category>
+</settings>
