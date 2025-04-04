@@ -1,0 +1,10 @@
+<addon id="plugin.program.kronos" version="1.0.0" name="Kronos" provider-name="Xabi">
+  <extension point="xbmc.python.program" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Kronos Addon</summary>
+    <description>Este addon mejora Luar con scripts inteligentes y mantenimiento optimizado.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
