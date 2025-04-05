@@ -1,1 +1,14 @@
-<addons></addons>
+<addons>
+  <addon id="repository.kronos" name="Kronos Repo" version="1.0.0" provider-name="Arxabin13">
+    <extension point="xbmc.addon.repository" name="Kronos Repo">
+      <info compressed="false">https://arxabin13.github.io/Kronosrepo/repository.kronos/addon.xml</info>
+      <checksum>https://arxabin13.github.io/Kronosrepo/repository.kronos/addons.xml.md5</checksum>
+      <datadir>https://arxabin13.github.io/Kronosrepo/repository.kronos/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+      <summary>Repositorio Kronos actualizado</summary>
+      <description>Repositorio oficial del addon Kronos para Kodi</description>
+      <platform>all</platform>
+    </extension>
+  </addon>
+</addons>
